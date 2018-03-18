@@ -10,7 +10,9 @@ To complete this assignment, you need to fork this repository, make changes to y
 
 ### :books: Reading List
 
-TODO
+* [MDN - Template literals](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals)
+* [MDN - Arrays](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)
+* [MDN – Objects](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects)
 
 ---
 
@@ -34,4 +36,6 @@ After completing this assignment, you should be getting fairly used to the core 
 
 Done with the main task? Here's some ideas for things to continue with:
 
-TODO
+* Follow the same instructions from the first assignment to re-write all of the challenges using es5.
+* Read about [JavaScript Classes](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes) and make a copy of 5-objects.html called 5-classes.html and try to convert all of the tasks in there to use a Person and Dog class.
+* Build upon the Person class; write a function in the Person class which prints the name and age of the person when invoked.
